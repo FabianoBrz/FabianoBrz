@@ -1,8 +1,7 @@
 ### Olá Seja Bem Vindo!  👋
 
-- 🔭 Iniciante Phayton
+- 🔭 Iniciante Phyton
 - 🌱 Procurando Estágio 
-- 👯 39 anos
 - 🤔 Dicvorciado
 - 💬 Fuctura Escola de Tecnologia
 
