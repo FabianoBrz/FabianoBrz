@@ -2,7 +2,7 @@
 
 - 🔭 Iniciante Phyton
 - 🌱 Procurando Estágio 
-- 🤔 Dicvorciado
+- 🤔 Divorciado
 - 💬 Fuctura Escola de Tecnologia
 
  <a href="https://github.com/Fabianobrz">
