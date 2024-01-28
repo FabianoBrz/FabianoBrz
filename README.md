@@ -5,7 +5,7 @@
 - 🤔 Divorciado
 - 💬 Fuctura Escola de Tecnologia
 
-  Estudante em Phyton jan/2024 , conhecendo logica de programação (banco de dados, ETL, Automação Web) e novos programas como: Colab Google, VsCode, Ruby on Rails.
+  Estudante em Phyton jan/2024 , conhecendo logica de programação (banco de dados, ETL, Automação Web) e novos programas como: Colab Google, VsCode, Ruby on Rails, Power BI , MySQL.
        
   Focado em resolver problemas, situações adversas em banco de dados , facilidade em aprender novas ferramentas, trabalho em equipe no git-github.
 
